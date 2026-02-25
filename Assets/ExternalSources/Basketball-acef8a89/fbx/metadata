@@ -1,0 +1,97 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Basketball court and backboards</p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/1d6101b5-e920-4d75-bcb3-5d2fd8a85ef3/f50df85e-3275-4b0b-9db9-732b4119b2af.jpeg",
+		"publishedAt": "2024-10-22T01:40:38.857303Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/050eefc2-fcc6-4dab-8076-452302291760/1c8652b9-54c7-4f13-b790-df42d0a33c01.jpeg",
+		"title": "Basketball",
+		"uid": "acef8a89-37e4-4b37-a3c5-3786a7c9a949",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "Lucas Leme Presoto",
+			"uid": "b07025eb-cf03-4605-9983-9854cf52ef77"
+		},
+		"tags": [
+			{
+				"name": "Blender",
+				"slug": "blender",
+				"uid": "141666cf-0a09-4718-85fa-f0d54884a525"
+			},
+			{
+				"name": "Court",
+				"slug": "court",
+				"uid": "22e3b2a3-6800-4339-b22f-a6543986ae2a"
+			},
+			{
+				"name": "Basketball",
+				"slug": "basketball",
+				"uid": "29fa1a94-964f-4544-87c7-020316e1bf6d"
+			}
+		],
+		"category":
+		{
+			"name": "Mobili e arredi",
+			"path": "furniture-fixtures",
+			"slug": "furniture-fixtures",
+			"uid": "3da1d2bd-49b4-4bc5-90e5-d31dadec3bd0"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "Formati di scambio 3D",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "File convertiti",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "d8cfd99c-cf39-40eb-8c1c-4e85be3c565b",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "8f72174d-dedf-480b-b73d-8eefe73b7e91",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "d8cfd99c-cf39-40eb-8c1c-4e85be3c565b",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

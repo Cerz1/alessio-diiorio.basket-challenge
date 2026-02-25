@@ -1,0 +1,130 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<p>Generic Basketball</p><p></p><ul><li><p>-Low-poly (1400 tris) ready to use in games AR/VR.</p></li><li><p>-Textures are in PNG format 4096x4096 PBR Metallic 1 set.</p></li></ul>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/5d7e1c80-d8c6-49cf-889a-6d4ddc39c465/04001fa7-1981-40ba-ba0d-76d553f2a2e5.png",
+		"publishedAt": "2025-07-03T14:06:53.948748Z",
+		"reviewCount": 1,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/a9a8f58c-490b-41e7-aba1-ae41fe8e24b8/7f4559cd-1190-4b95-a6f2-e5f0a8299368.png",
+		"title": "Generic Basketball Low-poly PBR",
+		"uid": "8bcfb9c2-fc47-440a-9a2a-70ee7d6c170e",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "Max3d",
+			"uid": "11d4836a-99af-4156-98df-1925b65b991d"
+		},
+		"tags": [
+			{
+				"name": "Pbr",
+				"slug": "pbr",
+				"uid": "080edd3b-d10a-4f32-ace2-30f5baa480dc"
+			},
+			{
+				"name": "Outdoor",
+				"slug": "outdoor",
+				"uid": "181bde92-b89d-49e9-b28f-af570035ad72"
+			},
+			{
+				"name": "Play",
+				"slug": "play",
+				"uid": "275e76d6-f7f9-41f4-adb0-2e30b716e72b"
+			},
+			{
+				"name": "Basketball",
+				"slug": "basketball",
+				"uid": "29fa1a94-964f-4544-87c7-020316e1bf6d"
+			},
+			{
+				"name": "Lowpoly",
+				"slug": "lowpoly",
+				"uid": "451806dc-649e-43b7-9c2e-a54485de14b6"
+			},
+			{
+				"name": "Equipment",
+				"slug": "equipment",
+				"uid": "660f3b42-d8c0-4cb7-94c3-6a1fec71fa26"
+			},
+			{
+				"name": "Sport",
+				"slug": "sport",
+				"uid": "984088a4-448e-4382-9a79-cfd19efa1388"
+			},
+			{
+				"name": "Basket",
+				"slug": "basket",
+				"uid": "ab42163a-98f7-4342-9c2d-c8233e6dd7cf"
+			},
+			{
+				"name": "Team",
+				"slug": "team",
+				"uid": "ccad73d7-6549-4165-8769-d783093d10e1"
+			},
+			{
+				"name": "Ball",
+				"slug": "ball",
+				"uid": "d343401d-9e37-4100-8ee6-6bc330cfe02c"
+			}
+		],
+		"category":
+		{
+			"name": "Sport",
+			"path": "objects-decor/sports",
+			"slug": "objects-decor--sports",
+			"uid": "66779eda-f767-4f0c-a2e5-4f9770ac4069"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "Formati di scambio 3D",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "OBJ",
+					"groupName": "Formati di scambio 3D",
+					"code": "obj",
+					"icon": "cube",
+					"extensions": [
+						"obj"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "ee618183-e2ba-4e3c-8907-294a824dc0bb",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
